@@ -1,0 +1,204 @@
+html,body{
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background:url(../images/bj.jpg) no-repeat center;
+	background-size: 100% 100%;
+	color: white;
+}
+.bottom{
+	width: 100%;
+	height: 100px;
+	position: fixed;
+	background: url("../images/caidan.png" ) no-repeat bottom;
+	/*border: 2px solid black;*/
+	bottom: 0;
+	left: 0;
+	line-height: 100px;
+	font-size: 3em;
+	z-index: 50000;
+}
+.shengming{
+	float: left;
+	margin-left: 150px;
+}
+.sore{
+	position: absolute;
+	right: 150px;
+}
+.guanqia{
+	position: absolute;
+	left: 43%;
+	width: 192px;
+	text-align: center;
+	/*background: green;*/
+	border-radius: 20px;	
+	cursor: pointer;
+}
+/*.guanqia img*/
+.guanqia_nandu{
+	position: absolute;
+	left: 43%;
+	height: 100px;
+	bottom: 0;
+	width: 192px;
+	text-align: center;
+	/*background: green;*/
+	border-radius: 20px;	
+	cursor: pointer;
+	display: none;
+}
+.guanqia_nandu span{
+	width: 45px;
+	height: 50px;
+	display: block;
+	float: left;
+	line-height: 50px;
+}
+.guanqia_nandu span img{
+	width: 100%;
+	height: 100%;
+}
+.new_gk{
+	width:100px;
+	height: 50px;
+	position: fixed;
+	text-align: center;
+	top: 0;
+	left: 0;
+	font-size: 40px;
+	line-height: 50px;
+	color: blueviolet;
+}
+/*.new_gk img{*/
+	/*width: 100%;*/
+	/*height: 150%;*/
+/*}*/
+.gk_num{
+	color: rgba(255,255,255,0);
+
+}
+.span-name{
+	width: 55px;
+	height: 60px;
+	border-radius: 50%;
+	box-shadow:0 0 10px rgba(255,255,255,0.8) inset;
+}
+.gk_num:nth-child(1){
+	background: url(../images/1.png) no-repeat center;
+	background-size: cover;
+}
+.gk_num:nth-child(2){
+	background: url(../images/2.png) no-repeat center;
+	background-size: cover;
+}
+.gk_num:nth-child(3){
+	background: url(../images/3.png);
+	background-size: cover;
+
+}
+.gk_num:nth-child(4){
+	background: url(../images/4.png);
+	background-size: cover;
+
+}
+.gk_num:nth-child(5){
+	background: url(../images/5.png);
+	background-size: cover;
+
+}
+.gk_num:nth-child(6){
+	background: url(../images/6.png);
+	background-size: cover;
+
+}
+.gk_num:nth-child(7){
+	background: url(../images/7.png);
+	background-size: cover;
+
+}
+.gk_num:nth-child(8){
+	background: url(../images/8.png);
+	background-size: cover;
+
+}
+
+
+.span-A{
+	background: url(../images/a.png) no-repeat center; background-size:cover;
+}
+.span-B{
+	background: url(../images/b.png) no-repeat center; background-size:cover;
+}
+.span-C{
+	background: url(../images/c.png) no-repeat center; background-size:cover;
+}
+.span-D{
+	background: url(../images/d.png) no-repeat center; background-size:cover;
+}
+.span-E{
+	background: url(../images/e.png) no-repeat center; background-size:cover;
+}
+.span-F{
+	background: url(../images/f.png) no-repeat center; background-size:cover;
+}
+.span-G{
+	background: url(../images/g.png) no-repeat center; background-size:cover;
+}
+.span-H{
+	background: url(../images/h.png) no-repeat center; background-size:cover;
+}
+.span-I{
+	background: url(../images/i.png) no-repeat center; background-size:cover;
+}
+.span-J{
+	background: url(../images/j.png) no-repeat center; background-size:cover;
+}
+.span-K{
+	background: url(../images/k.png) no-repeat center; background-size:cover;
+}
+.span-L{
+	background: url(../images/l.png) no-repeat center; background-size:cover;
+}
+.span-M{
+	background: url(../images/m.png) no-repeat center; background-size:cover;
+}
+.span-N{
+	background: url(../images/n.png) no-repeat center; background-size:cover;
+}
+.span-O{
+	background: url(../images/o.png) no-repeat center; background-size:cover;
+}
+.span-P{
+	background: url(../images/p.png) no-repeat center; background-size:cover;
+}
+.span-Q{
+	background: url(../images/q.png) no-repeat center; background-size:cover;
+}
+.span-R{
+	background: url(../images/r.png) no-repeat center; background-size:cover;
+}
+.span-S{
+	background: url(../images/s.png) no-repeat center; background-size:cover;
+}
+.span-T{
+	background: url(../images/t.png) no-repeat center; background-size:cover;
+}
+.span-U{
+	background: url(../images/u.png) no-repeat center; background-size:cover;
+}
+.span-V{
+	background: url(../images/v.png) no-repeat center; background-size:cover;
+}
+.span-W{
+	background: url(../images/w.png) no-repeat center; background-size:cover;
+}
+.span-X{
+	background: url(../images/x.png) no-repeat center; background-size:cover;
+}
+.span-Y{
+	background: url(../images/y.png) no-repeat center; background-size:cover;
+}
+.span-Z{
+	background: url(../images/z.png) no-repeat center; background-size:cover;
+}
